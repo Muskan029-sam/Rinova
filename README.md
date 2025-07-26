@@ -1,11 +1,9 @@
 # Rinova
-# TrackWeight
+# TrackWeight by Anshika Pandey
 
 **Turn your MacBook's trackpad into a precise digital weighing scale**
 
-[TrackWeight](https://x.com/KrishRShah/status/1947186835811193330) is a macOS application that transforms your MacBook's trackpad into an accurate weighing scale by leveraging the Force Touch pressure sensors built into modern MacBook trackpads.
-
-https://github.com/user-attachments/assets/7eaf9e0b-3dec-4829-b868-f54a8fd53a84
+**TrackWeight** is a macOS application created by **Anshika Pandey** that transforms your MacBook's trackpad into an accurate weighing scale by leveraging the Force Touch pressure sensors built into modern MacBook trackpads.
 
 To use it yourself:
 
@@ -32,4 +30,4 @@ The key insight is that trackpad pressure events are only generated when there's
 ### Option 1: Homebrew (Recommended)
 
 ```bash
-brew install --cask krishkrosh/apps/trackweight
+brew install --cask anshikapandey/apps/trackweight
